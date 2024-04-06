@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Console-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60B89133-BA92-46D8-BD3B-4CC61713CF41}|ConsoleApp6\\ConsoleApp6.csproj|c:\\users\\user\\desktop\\console-main\\consoleapp6\\editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B89133-BA92-46D8-BD3B-4CC61713CF41}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B89133-BA92-46D8-BD3B-4CC61713CF41}|ConsoleApp6\\ConsoleApp6.csproj|c:\\users\\user\\desktop\\console-main\\consoleapp6\\cursor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B89133-BA92-46D8-BD3B-4CC61713CF41}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\cursor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B89133-BA92-46D8-BD3B-4CC61713CF41}|ConsoleApp6\\ConsoleApp6.csproj|c:\\users\\user\\desktop\\console-main\\consoleapp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B89133-BA92-46D8-BD3B-4CC61713CF41}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cursor.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Console-main\\ConsoleApp6\\Cursor.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\Cursor.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Console-main\\ConsoleApp6\\Cursor.cs",
+              "RelativeToolTip": "ConsoleApp6\\Cursor.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAwCwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T10:19:50.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Editor.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Console-main\\ConsoleApp6\\Editor.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\Editor.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Console-main\\ConsoleApp6\\Editor.cs",
+              "RelativeToolTip": "ConsoleApp6\\Editor.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAApwJAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T08:30:05.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Console-main\\ConsoleApp6\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Console-main\\ConsoleApp6\\Program.cs",
+              "RelativeToolTip": "ConsoleApp6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T05:07:06.383Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
